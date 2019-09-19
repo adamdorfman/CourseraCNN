@@ -10,6 +10,5 @@ include:
 And more. <br />
 
 Note: if you would like to view these ipython notebooks online, you can
-copy the URL to the notebook and go to the following website:
-https://nbviewer.jupyter.org <br />
-and paste the URL to the notebook there, where it will open and display it.
+view this repo using Jupyter Notebooks ipython notebook viewer: <br />
+https://nbviewer.jupyter.org/github/adamdorfman/CourseraCNN/tree/master/
